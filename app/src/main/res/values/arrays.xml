@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>简体中文</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="medicaArr">
+        <!--//{"暂无", "高血压", "糖尿病", "心脏病", "脑梗", "脑出血", "癌症", "过敏性疾病", "哮喘", "癫痫病", "白癜风", "近视"}-->
+        <item>暂无</item>
+        <item>高血压</item>
+        <item>糖尿病</item>
+        <item>心脏病</item>
+        <item>脑梗</item>
+        <item>脑出血</item>
+        <item>癌症</item>
+        <item>过敏性疾病</item>
+        <item>哮喘</item>
+        <item>癫痫病</item>
+        <item>白癜风</item>
+        <item>近视</item>
+    </string-array>
+    <string-array name="otherFoodArr">
+        <!--{"暂无", "芒果", "牛奶", "海鲜", "笋", "香菇", "黄瓜", "花粉", "油漆", "皮毛", "化妆品"};-->
+        <item>暂无</item>
+        <item>芒果</item>
+        <item>牛奶</item>
+        <item>海鲜</item>
+        <item>笋</item>
+        <item>香菇</item>
+        <item>黄瓜</item>
+        <item>花粉</item>
+        <item>油漆</item>
+        <item>皮毛</item>
+        <item>化妆品</item>
+    </string-array>
+    <string-array name="personalArr">
+        <!--{"低头族", "久坐", "久站", "吸烟", "饮酒", "熬夜", "跷二郎腿", "强忍大小便", "饭后卧床", "如厕看书报", "不喜喝水"};-->
+        <item>低头族</item>
+        <item>久坐</item>
+        <item>久站</item>
+        <item>吸烟</item>
+        <item>饮酒</item>
+        <item>熬夜</item>
+        <item>跷二郎腿</item>
+        <item>强忍大小便</item>
+        <item>饭后卧床</item>
+        <item>如厕看书报</item>
+        <item>不喜喝水</item>
+    </string-array>
+    <string-array name="drugArr">
+        <!--{"暂无", "青霉素", "头孢类抗生素", "破伤风抗毒素(TAT)", "普鲁卡因", "地卡因", "磺胺类药物", "维生素B1", "泛影葡胺", "阿司匹林"};-->
+        <item>暂无</item>
+        <item>青霉素</item>
+        <item>头孢类抗生素</item>
+        <item>破伤风抗毒素(TAT)</item>
+        <item>普鲁卡因</item>
+        <item>地卡因</item>
+        <item>磺胺类药物</item>
+        <item>维生素B1</item>
+        <item>泛影葡胺</item>
+        <item>阿司匹林</item>
+    </string-array>
+    <string-array name="surgeryArr">
+        <item>暂无</item>
+        <item>颅脑手术</item>
+        <item>颈部手术</item>
+        <item>胸部手术</item>
+        <item>腹部手术</item>
+        <item>背部手术</item>
+        <item>四肢手术</item>
+
+
+        <item>骨折</item>
+        <item>头部外伤</item>
+        <item>烧伤</item>
+        <item>烫伤</item>
+        <item>肌腱损伤</item>
+        <item>皮肤软组织损伤</item>
+        <item>刀砍伤</item>
+        <item>刀刺伤</item>
+    </string-array>
+    <string-array name="likedSports">
+        <item>无器材训练</item>
+        <item>小器材训练</item>
+        <item>跑步</item>
+        <item>骑行</item>
+        <item>瑜伽</item>
+        <item>球类</item>
+        <item>健身房举铁</item>
+        <item>健身房有氧</item>
+        <item>其他</item>
+        <item>暂无</item>
+    </string-array>
+    <string-array name="fieldArr">
+        <item>家里</item>
+        <item>健身房</item>
+        <item>其他运动场馆</item>
+        <item>户外</item>
+        <item>学生宿舍</item>
+    </string-array>
+
+</resources>

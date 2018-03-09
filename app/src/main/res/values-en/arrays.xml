@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>简体中文</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="medicaArr">
+        <!--//{"No", "高血压", "糖尿病", "心脏病", "脑梗", "脑出血", "癌症", "过敏性疾病", "哮喘", "癫痫病", "白癜风", "近视"}-->
+        <item>No</item>
+        <item>Hypertension</item>
+        <item>diabetes</item>
+        <item>heart disease</item>
+        <item>cerebral infarction</item>
+        <item>cerebral hemorrhage</item>
+        <item>cancer</item>
+        <item>allergic disease</item>
+        <item>asthma</item>
+        <item>epilepsy</item>
+        <item>Vitiligo</item>
+        <item>myopia</item>
+    </string-array>
+    <string-array name="otherFoodArr">
+        <!--{"No", "芒果", "牛奶", "海鲜", "笋", "香菇", "黄瓜", "花粉", "油漆", "皮毛", "化妆品"};-->
+        <item>No</item>
+        <item>Mango</item>
+        <item>milk</item>
+        <item>seafood</item>
+        <item>bamboo</item>
+        <item>mushroom</item>
+        <item>cucumber</item>
+        <item>pollen</item>
+        <item>paint</item>
+        <item>fur</item>
+        <item>cosmetics</item>
+    </string-array>
+    <string-array name="personalArr">
+        <!--{"低头族", "久坐", "久站", "吸烟", "饮酒", "熬夜", "跷二郎腿", "强忍大小便", "饭后卧床", "如厕看书报", "不喜喝水"};-->
+        <item>Phubber</item>
+        <item>long sitting</item>
+        <item>long standing</item>
+        <item>smoking</item>
+        <item>drink</item>
+        <item>stay up late</item>
+        <item>cross your legs</item>
+        <item>holding from relieve the bowels</item>
+        <item>bed after dinner</item>
+        <item>toilet reading newspaper</item>
+        <item>don't like to drink water</item>
+    </string-array>
+    <string-array name="drugArr">
+        <!--{"No", "青霉素", "头孢类抗生素", "破伤风抗毒素(TAT)", "普鲁卡因", "地卡因", "磺胺类药物", "维生素B1", "泛影葡胺", "阿司匹林"};-->
+        <item>No</item>
+        <item>Penicillin</item>
+        <item>cephalosporin antibiotics</item>
+        <item>tetanus antitoxin (TAT)</item>
+        <item>procaine</item>
+        <item>tetracaine</item>
+        <item>sulfonamides</item>
+        <item>Vitamin B1</item>
+        <item>pantomimide</item>
+        <item>aspirin</item>
+    </string-array>
+    <string-array name="surgeryArr">
+        <item>No</item>
+        <item>craniocerebral surgery</item>
+        <item>neck surgery</item>
+        <item>chest surgery</item>
+        <item>abdominal surgery</item>
+        <item>back surgery</item>
+        <item>limbs surgery</item>
+        <item>Fracture</item>
+        <item>head trauma</item>
+        <item>burn</item>
+        <item>scald</item>
+        <item>tendon injury</item>
+        <item>skin soft tissue damage</item>
+        <item>knife cuts</item>
+        <item>stab wounds</item>
+    </string-array>
+    <string-array name="likedSports">
+        <item>Training without equipment </item>
+        <item>Training without  small equipment</item>
+        <item>Running</item>
+        <item>Riding</item>
+        <item> Youga</item>
+        <item>Balls</item>
+        <item>Gym lifting</item>
+        <item>Gym aerobics</item>
+        <item>Others</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="fieldArr">
+        <item>Home</item>
+        <item>Gym</item>
+        <item>Other sports venues</item>
+        <item>Outdoor</item>
+        <item>Dormitory</item>
+    </string-array>
+
+</resources>
